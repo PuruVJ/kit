@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.260
+
+### Patch Changes
+
+- Allow Response object to be returned without properties showing up in object constructor ([#3697](https://github.com/sveltejs/kit/pull/3697))
+
 ## 1.0.0-next.259
 
 ### Patch Changes
